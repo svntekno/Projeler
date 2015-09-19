@@ -1,0 +1,1 @@
+<script src="http://www.clocklink.com/embed.js"></script> <script type="text/javascript" language="JavaScript">obj=new Object;obj.clockfile="0001-blue.swf";obj.TimeZone="EET"; obj.width=150;obj.height=150;obj.wmode="transparent";showClock(obj);</script>

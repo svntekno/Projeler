@@ -1,0 +1,203 @@
+@import url("//fonts.googleapis.com/css?family=Lato:400,700,400italic");
+/*!
+ * bootswatch v3.3.4+1
+ * Homepage: http://bootswatch.com
+ * Copyright 2012-2015 Thomas Park
+ * Licensed under MIT
+ * Based on Bootstrap
+*//*! normalize.css v3.0.2 | MIT License | git.io/normalize */html{
+	font-family:sans-serif;
+	-ms-text-size-adjust:100%;
+	-webkit-text-size-adjust:100%
+}
+
+
+
+
+#borsa{
+top:14%;
+height:30px;
+width:320px;
+margin-left:76%;
+position:absolute;
+background-image:url("../backg/haberler.png");
+
+
+}
+
+
+.brs{
+position:absolute;
+top:110%;
+height:500px;
+width:300px;
+margin-left:1%;
+
+
+}
+
+#duy{
+position:absolute;
+top:92.50%;
+height:80px;
+width:1400px;
+margin-left:;
+background-image:url("../backg/duyru.png");
+
+
+}
+
+
+.dy{
+position:absolute;
+
+height:70px;
+width:1366px;
+margin-left:1%;
+
+}
+
+
+.pnl{
+
+margin-left:28%;
+position:absolute;
+top:61%;
+
+
+}
+
+#eczex{
+position:absolute;
+top:14%;
+height:30px;
+width:300px;
+margin-left:15px;
+background-image:url("../backg/ecz.png");
+
+
+}
+
+
+.eczint{
+position:absolute;
+top:100%;
+height:80px;
+width:300px;
+margin-left:0.40px;
+
+
+}
+
+#trh{
+position:absolute;
+top:55%;
+height:30px;
+width:300px;
+margin-left:15px;
+background-image:url("../backg/TARİH.png");
+
+
+}
+
+
+.tarh{
+position:absolute;
+top:95%;
+height:400px;
+width:300px;
+margin-left:0px;
+
+
+}
+
+#hv{
+position:absolute;
+top:50%;
+height:30px;
+width:300px;
+margin-left:90px;
+
+
+
+}
+
+
+.hv{
+
+position:absolute;
+top:3%;
+height:30px;
+width:100px;
+margin-left:89.40%;
+
+
+}
+@media(min-width:768px) {
+.cl-fixed-top{
+
+position:fixed;
+top:3%;
+height:30px;
+width:100px;
+margin-left:89.40%;
+  padding: 10px 0;
+
+
+
+
+}
+}
+
+.bd{
+position:absolute;
+top:5%;
+color:#FFF;
+
+}
+#banner {
+	position: absolute;
+	left: 607px;
+	top: 1px;
+	width: 130px;
+	height: 130px;
+	z-index: 5;
+}
+
+.p {
+
+  float: left;
+    color: #FFF;
+position:absolute;
+top:3%;
+color:#FFF;
+font-size: 30px;
+margin-left:100px;
+
+}
+
+.ps{
+
+float: right;
+color: #FFF;
+position:absolute;
+top:3%;
+color:#FFF;
+font-size: 30px;
+margin-left:810px;
+
+}
+.hv{
+
+float: right;
+color: #FFF;
+position:absolute;
+top:2%;
+color:#FFF;
+font-size: 30px;
+margin-left:1250px;
+
+}
+
+
+
